@@ -1,0 +1,13 @@
+D:\CAMPUS\Programming\VB\VB_Project_One\VB_Project_One\bin\Debug\VB_Project_One.exe.config
+D:\CAMPUS\Programming\VB\VB_Project_One\VB_Project_One\bin\Debug\VB_Project_One.exe
+D:\CAMPUS\Programming\VB\VB_Project_One\VB_Project_One\bin\Debug\VB_Project_One.pdb
+D:\CAMPUS\Programming\VB\VB_Project_One\VB_Project_One\bin\Debug\VB_Project_One.xml
+D:\CAMPUS\Programming\VB\VB_Project_One\VB_Project_One\obj\Debug\VB_Project_One.vbproj.AssemblyReference.cache
+D:\CAMPUS\Programming\VB\VB_Project_One\VB_Project_One\obj\Debug\VB_Project_One.vbproj.SuggestedBindingRedirects.cache
+D:\CAMPUS\Programming\VB\VB_Project_One\VB_Project_One\obj\Debug\VB_Project_One.Form1.resources
+D:\CAMPUS\Programming\VB\VB_Project_One\VB_Project_One\obj\Debug\VB_Project_One.Resources.resources
+D:\CAMPUS\Programming\VB\VB_Project_One\VB_Project_One\obj\Debug\VB_Project_One.vbproj.GenerateResource.cache
+D:\CAMPUS\Programming\VB\VB_Project_One\VB_Project_One\obj\Debug\VB_Project_One.vbproj.CoreCompileInputs.cache
+D:\CAMPUS\Programming\VB\VB_Project_One\VB_Project_One\obj\Debug\VB_Project_One.exe
+D:\CAMPUS\Programming\VB\VB_Project_One\VB_Project_One\obj\Debug\VB_Project_One.xml
+D:\CAMPUS\Programming\VB\VB_Project_One\VB_Project_One\obj\Debug\VB_Project_One.pdb
